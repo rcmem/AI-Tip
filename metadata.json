@@ -1,0 +1,6 @@
+{
+  "name": "Chuyển Hướng - Tips Floot",
+  "description": "Tự động chuyển hướng đến https://tips.floot.app với giao diện hỗ trợ chuyển tiếp nhanh chóng và an toàn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
